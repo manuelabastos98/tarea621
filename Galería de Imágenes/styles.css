@@ -25,3 +25,17 @@ p {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+h1, h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: xx-large;
+}
+
+
